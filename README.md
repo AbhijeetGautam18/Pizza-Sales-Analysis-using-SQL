@@ -55,5 +55,7 @@ Advanced:<br>
 12. Analyze the cumulative revenue generated over time.<br>
 13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
+## Solution
+Refer to pizza_sales_analysis.sql for queries along with output.
 
 
